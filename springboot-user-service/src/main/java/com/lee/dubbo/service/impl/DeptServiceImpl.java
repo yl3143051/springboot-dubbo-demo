@@ -13,7 +13,7 @@ import org.springframework.stereotype.Service;
 public class DeptServiceImpl implements DeptService {
     @Autowired
     private DeptMapper deptMapper;
-    @Reference
+    @Reference(check = false)
     private PersonService personService;
 
     @Override
