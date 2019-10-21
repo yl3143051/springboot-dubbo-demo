@@ -30,3 +30,5 @@ dubbo:
 启动类上加 @EnableDubbo
 对外暴露的实现方法加 @com.alibaba.dubbo.config.annotation.Service
 引入的接口加 @Reference
+
+@Reference(check = false) 表示不会在启动时简查dubbo关联服务是否启动
