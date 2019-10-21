@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-bootservice-api/spring-bootservice-api.iml" filepath="$PROJECT_DIR$/spring-bootservice-api/spring-bootservice-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-demo.iml" filepath="$PROJECT_DIR$/springboot-dubbo-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-meeting-service/springboot-meeting-service.iml" filepath="$PROJECT_DIR$/springboot-meeting-service/springboot-meeting-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-person-service/springboot-person-service.iml" filepath="$PROJECT_DIR$/springboot-person-service/springboot-person-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-user-service/springboot-user-service.iml" filepath="$PROJECT_DIR$/springboot-user-service/springboot-user-service.iml" />
+    </modules>
+  </component>
+</project>
